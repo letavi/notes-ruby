@@ -20,3 +20,11 @@ Example:
 array = [1,2,3,4,5,6,7,8,9]
 array.drop(2) => Result: 3,4,5,6,7,8,9
 ```
+
+3. Ruby Array - Addition
+- push => Add element at the ending of the array.
+- unshift => Add element at the beginning of the array.
+
+4. Rubby Array - Selection
+- Non-Destructive Selection: `select`, `reject`, `drop_while`
+- Destructive Selection: `select!`, `reject!`, `delete_if`, `keep_if`
