@@ -103,8 +103,6 @@ foo("pig")
 ```
 
 - Difference between `instance method` and `class method` and `module method` :
-|                 Instance Method                   |             Class Method                |
-|---------------------------------------------------|---------------------------------------- |
-| Provides functionality to one instance of a class |Provides functionality to a class itself |
-
+   + Instance Method: Provides functionality to one instance of a class.
+   + Class Method: Provides functionality to a class itself
 
